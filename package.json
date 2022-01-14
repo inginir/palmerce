@@ -1,0 +1,27 @@
+{
+  "name": "palmerce",
+  "version": "1.0.0",
+  "description": "ecommerce web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inginir/palmerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inginir/palmerce/issues"
+  },
+  "homepage": "https://github.com/inginir/palmerce#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
